@@ -1,0 +1,129 @@
+    1  ls
+    2  sha256sum
+    3  ll
+    4  pwd
+    5  ls
+    6  cd html
+    7  sha256sum *
+    8  cd html
+    9  sha256sum *
+   10  ll
+   11  ls -l
+   12  cd html
+   13  sha256sum *
+   14  sha256sum *
+   15  exit
+   16  cd html
+   17  sha256sum *
+   18  ls -l
+   19  ls -ls
+   20  ls -lS
+   21  cd html
+   22  cd Camera/
+   23  sha256sum *
+   24  ls
+   25  split
+   26  ll
+   27  ls -l
+   28  cd html
+   29  ls -l
+   30  49120937
+   31  man split
+   32  ls
+   33  #split -5b 49120936 2018_01_
+   34  ls -l
+   35  man split
+   36  ll
+   37  ls -l
+   38  split -b 15
+   39  ls -l
+   40  sha256sum *
+   41  #split -b 30081024
+   42  split -b 15040512 xaa
+   43  mv xaa xa
+   44  split -b 15040512 xa
+   45  ls -l
+   46  sha256sum x*
+   47  man split
+   48  java
+   49  perl
+   50  python
+   51  emacs
+   52  vi
+   53  vi hal.py
+   54  vi hal.py
+   55  python hal
+   56  python hal.py
+   57  vi hal.py
+   58  python hal.py
+   59  python hal.py
+   60  vi hal.py
+   61  python hal.py
+   62  vi hal.py
+   63  python hal.py
+   64  vi hal.py
+   65  python hal.py
+   66  vi hal.py
+   67  python hal.py
+   68  vi hal.py
+   69  python hal.py
+   70  cp hal.py hal2.py
+   71  vi hal2.py
+   72  python hal2.py
+   73  vi hal2.py
+   74  python hal2.py
+   75  vi hal2.py
+   76  python hal2.py 
+   77  vi hal2.py
+   78  python hal2.py 
+   79  vi hal2.py
+   80  python hal2.py 
+   81  vi hal2.py
+   82  python hal2.py 
+   83  vi hal2.py
+   84  ls
+   85  python hal2.py 
+   86  pwd
+   87  vi hal2.py
+   88  python hal2.py 
+   89  vi hal2.py
+   90  python hal2.py
+   91  vi hal2.py
+   92  python hal2.py
+   93  vi hal2.py
+   94  python hal2.py
+   95  vi hal2.py
+   96  python hal2.py
+   97  vi hal2.py
+   98  python hal2.py
+   99  git
+  100  python hal2.py
+  101  vi hal2.py
+  102  python hal2.py
+  103  curl
+  104  history 
+  105  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+  106  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > $a.OvhOneHist.txt
+  107  ls
+  108  cat at4676c1b.93x257ae92.OvhOneHist.txt 
+  109  exit
+  110  curl https://dresdenlabs.appspot.com/serve/3241e2dbdff999f3f5529fc709ee48569 > md5_3
+  111  ls-l
+  112  ls -l
+  113  cat md5_3 
+  114  curl https://dresdenlabs.appspot.com/serve/3241e2dbdff999f3f5529fc709ee48569 > md5_3
+  115  curl https://dresdenlabs.appspot.com/serve/3241e2dbdff999f3f5529fc709ee48569 > md5_3
+  116  curl https://dresdenlabs.appspot.com/serve/6b3c50ac0bb8bf7425d27cf1d9fd8260 > md5_3
+  117  md5 md5_3 
+  118  md5sum md5_3 
+  119  curl https://dresdenlabs.appspot.com/serve/3241e2dbdff999f3f5529fc709ee4869> md5_5532
+  120  md5sum md5_5532 
+  121  mv md5_5532 md5_3241e2dbdff999f3f5529fc709ee4869.png
+  122  mv md5_3 md5_6b3c50ac0bb8bf7425d27cf1d9fd8260.png
+  123  ls
+  124  pwd
+  125  curl https://dresdenlabs.appspot.com/serve/199e1dde0d870e6fe8f9f710f01fdf46 >mm
+  126  mv mm md5_199e1dde0d870e6fe8f9f710f01fdf46.png
+  127  sha256sum *
+  128  history 
+  129  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > $a.OvhOneHist.txt

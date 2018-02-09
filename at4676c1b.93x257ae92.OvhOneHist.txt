@@ -1,0 +1,97 @@
+    1  ls
+    2  sha256sum
+    3  ll
+    4  pwd
+    5  ls
+    6  cd html
+    7  sha256sum *
+    8  cd html
+    9  sha256sum *
+   10  ll
+   11  ls -l
+   12  cd html
+   13  sha256sum *
+   14  sha256sum *
+   15  exit
+   16  cd html
+   17  sha256sum *
+   18  ls -l
+   19  ls -ls
+   20  ls -lS
+   21  cd html
+   22  cd Camera/
+   23  sha256sum *
+   24  ls
+   25  split
+   26  ll
+   27  ls -l
+   28  cd html
+   29  ls -l
+   30  49120937
+   31  man split
+   32  ls
+   33  #split -5b 49120936 2018_01_
+   34  ls -l
+   35  man split
+   36  ll
+   37  ls -l
+   38  split -b 15
+   39  ls -l
+   40  sha256sum *
+   41  #split -b 30081024
+   42  split -b 15040512 xaa
+   43  mv xaa xa
+   44  split -b 15040512 xa
+   45  ls -l
+   46  sha256sum x*
+   47  man split
+   48  java
+   49  perl
+   50  python
+   51  emacs
+   52  vi
+   53  vi hal.py
+   54  vi hal.py
+   55  python hal
+   56  python hal.py
+   57  vi hal.py
+   58  python hal.py
+   59  python hal.py
+   60  vi hal.py
+   61  python hal.py
+   62  vi hal.py
+   63  python hal.py
+   64  vi hal.py
+   65  python hal.py
+   66  vi hal2.py
+   67  python hal2.py 
+   68  vi hal2.py
+   69  python hal2.py 
+   70  vi hal2.py
+   71  python hal2.py 
+   72  vi hal2.py
+   73  python hal2.py 
+   74  vi hal2.py
+   75  ls
+   76  python hal2.py 
+   77  pwd
+   78  vi hal2.py
+   79  python hal2.py 
+   80  vi hal2.py
+   81  python hal2.py
+   82  vi hal2.py
+   83  python hal2.py
+   84  vi hal2.py
+   85  python hal2.py
+   86  vi hal2.py
+   87  python hal2.py
+   88  vi hal2.py
+   89  python hal2.py
+   90  git
+   91  python hal2.py
+   92  vi hal2.py
+   93  python hal2.py
+   94  curl
+   95  history 
+   96  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+   97  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > $a.OvhOneHist.txt
