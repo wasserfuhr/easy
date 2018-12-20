@@ -1,0 +1,500 @@
+   11  mv at5da6cf7.e2x17e79d4.OvhOneHist.txt at5da6cf7.e2x17e79d4.EasyHist.txt 
+   12  mv at5e39803.a8x17722b1.OvhOneHist.txt at5e39803.a8x17722b1.EasyHist.txt 
+   13  git add at5*EasyHist.txt
+   14  git commit -am"add at5*EasyHist.txt"
+   15  git push
+   16  ls
+   17  ls -l
+   18  cat ha*
+   19  ls -l
+   20  cd ..
+   21  ls -l
+   22  ls -l tmp
+   23  rmdir tmp
+   24  ls -l phptmp
+   25  ls log
+   26  ls files
+   27  ls config
+   28  ls backup
+   29  ls html
+   30  cd
+   31  du
+   32  du -?
+   33  du --h
+   34  du --he
+   35  du -b
+   36  du -b rq*
+   37  ls -l rq*
+   38  ls -l rq*|more
+   39  history|grep his
+   40  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/easy/$a.EasyHist.txt
+   41  exit
+   42  #at5e3e58e.50x864cd.20ec694e
+   43  cd html/up4694/
+   44  ls -l
+   45  cd 107APPLE/
+   46  ls -l
+   47  sha256sum IMG_722*
+   48   emacs
+   49  vi
+   50  unzip -?
+   51  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/easy/$a.EasyHist.txt
+   52  exit
+   53  exit
+   54  pwd
+   55  mkdir rq
+   56  exit
+   57  mkdir rq46a0
+   58  cd rq46a0
+   59  a=dresdenlabs
+   60  #at5f37a6f.e4x86aa6.1ed1ec76
+   61  ls
+   62  ls ..
+   63  n=0000
+   64  h=5df;i=5e0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   65  h=5e0;i=5e1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   66  h=5e1;i=5e2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   67  h=5e2;i=5e3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   68  h=5e3;i=5e4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   69  h=5e4;i=5e5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   70  h=5e5;i=5e6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   71  h=5e6;i=5e7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   72  h=5e7;i=5e8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   73  h=5e8;i=5e9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   74  h=5e9;i=5ea;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   75  h=5ea;i=5eb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   76  h=5eb;i=5ec;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   77  h=5ec;i=5ed;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   78  h=5ed;i=5ee;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   79  h=5ee;i=5ef;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   80  h=5ef;i=5f0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   81  ls -l
+   82  a=floatingboat2013
+   83  h=5df;i=5e0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   84  h=5e0;i=5e1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   85  h=5e1;i=5e2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   86  h=5e2;i=5e3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   87  h=5e3;i=5e4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   88  h=5e4;i=5e5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   89  h=5e5;i=5e6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   90  h=5e6;i=5e7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   91  h=5e7;i=5e8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   92  h=5e8;i=5e9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   93  h=5e9;i=5ea;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   94  h=5ea;i=5eb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   95  h=5eb;i=5ec;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   96  h=5ec;i=5ed;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   97  h=5ed;i=5ee;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   98  h=5ee;i=5ef;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+   99  h=5ef;i=5f0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  100  a=knot-net
+  101  h=5df;i=5e0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  102  h=5e0;i=5e1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  103  h=5e1;i=5e2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  104  h=5e2;i=5e3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  105  h=5e3;i=5e4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  106  h=5e4;i=5e5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  107  h=5e5;i=5e6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  108  h=5e6;i=5e7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  109  h=5e7;i=5e8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  110  h=5e8;i=5e9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  111  h=5e9;i=5ea;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  112  h=5ea;i=5eb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  113  h=5eb;i=5ec;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  114  h=5ec;i=5ed;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  115  h=5ed;i=5ee;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  116  h=5ee;i=5ef;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  117  h=5ef;i=5f0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  118  ls -l
+  119  history|grep his
+  120  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/easy/$a.EasyHist.txt
+  121  exit
+  122  ls
+  123  ls rq
+  124  #at5f8f67f.8cx86c7f.18fdd8cd
+  125  mv rq4* rq
+  126  l
+  127  ls
+  128  ls rq
+  129  ls -l rq
+  130  pwd
+  131  du rq
+  132  du -?
+  133  du --help
+  134  du -b rq
+  135  pwd
+  136  history|grep bti
+  137  pwd
+  138  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/easy/$a.EasyHist.txt
+  139  exit
+  140  #at5ffad9b.01x86efe.1d7de245
+  141  ls
+  142  python -m SimpleHTTPServer
+  143  ifconfig
+  144  hostname
+  145  ls
+  146  cd html
+  147  ls
+  148  ls -l x*
+  149  hexdump -C xa|more
+  150  sha256sum xa
+  151  cat xaa xab|sha256sum
+  152  rm xaa xab
+  153  l
+  154  ls
+  155  ls Camera/
+  156  wget https://floatingboat2013.appspot.com/raw/273305001|sha256sum
+  157  sha256sum 273305001 
+  158  history|grep his
+  159  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/easy/$a.EasyHist.txt
+  160  exit
+  161  #at600b0c0.8ex86f5a.106acae9
+  162  ls
+  163  cd rq
+  164  ls
+  165  mkdir rq46aa
+  166  cd rq46aa
+  167  n=0000
+  168  a=dresdenlabs
+  169  h=5ef;i=5f0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  170  h=5f0;i=5f1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  171  h=5f1;i=5f2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  172  h=5f2;i=5f3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  173  h=5f3;i=5f4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  174  h=5f4;i=5f5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  175  h=5f5;i=5f6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  176  h=5f6;i=5f7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  177  h=5f7;i=5f8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  178  h=5f8;i=5f9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  179  h=5f9;i=5fa;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  180  h=5fa;i=5fb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  181  h=5fb;i=5fc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  182  h=5fc;i=5fd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  183  h=5fd;i=5fe;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  184  h=5fe;i=5ff;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  185  h=5ff;i=600;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  186  ls -l
+  187  a=floatingboat2013
+  188  h=5ef;i=5f0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  189  h=5f0;i=5f1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  190  h=5f1;i=5f2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  191  h=5f2;i=5f3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  192  h=5f3;i=5f4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  193  h=5f4;i=5f5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  194  h=5f5;i=5f6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  195  h=5f6;i=5f7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  196  h=5f7;i=5f8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  197  h=5f8;i=5f9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  198  h=5f9;i=5fa;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  199  h=5fa;i=5fb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  200  h=5fb;i=5fc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  201  h=5fc;i=5fd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  202  h=5fd;i=5fe;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  203  h=5fe;i=5ff;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  204  h=5ff;i=600;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  205  a=knot-net
+  206  h=5ef;i=5f0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  207  h=5f0;i=5f1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  208  h=5f1;i=5f2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  209  h=5f2;i=5f3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  210  h=5f3;i=5f4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  211  h=5f4;i=5f5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  212  h=5f5;i=5f6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  213  h=5f6;i=5f7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  214  h=5f7;i=5f8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  215  h=5f8;i=5f9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  216  h=5f9;i=5fa;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  217  h=5fa;i=5fb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  218  h=5fb;i=5fc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  219  h=5fc;i=5fd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  220  h=5fd;i=5fe;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  221  h=5fe;i=5ff;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  222  h=5ff;i=600;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+  223  ls -l|more
+  224  sha256sum *
+  225  cd ..
+  226  ls -l
+  227  zip rq rq4*
+  228  zip rq rq4*/*
+  229  ls -l rq.zip 
+  230  history|grep his
+  231  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/easy/$a.EasyHist.txt
+  232  exit
+  233  ls
+  234  zip
+  235  #at6083e2a.bex8722b.2ecb172d
+  236  ls html/m*
+  237  mv md5_* html
+  238  ll
+  239  ls -l
+  240  ls -l backup/
+  241  ls -l config/
+  242  ls -l easy/
+  243  ls -l files/
+  244  rmdir files
+  245  ls -l log
+  246  cat log/access.log.0 
+  247  cat /data/web/e81479/log/access.log.0 
+  248  ls -l phpsession/
+  249  ls -l phptmp/
+  250  ls -l rq
+  251  pwd
+  252  pwd
+  253  sha256sum rq/rq.zip
+  254  pwd
+  255  ls
+  256  cd easy/
+  257  ll
+  258  ls -l
+  259  cat at4676c1b.93x257ae92.OvhOneHist.txt 
+  260  git pull
+  261  ls -l
+  262  git mv at4676c1b.93x257ae92.OvhOneHist.txt at4676c1b.93x257ae92.EasyHist.txt
+  263  git mv at4714492.fdx4f23d01.OvhOneHist.txt at4714492.fdx4f23d01.EasyHist.txt
+  264  cat README.md
+  265  emacs
+  266  vi README.md
+  267  git commit -am"~"
+  268  git push
+  269  cd ..
+  270  ls -l
+  271  cd html/
+  272  ls -l
+  273  cat 273305001
+  274  sha256sum 273305001
+  275  ls -l 273305001 
+  276  mv 100APPLE/ up46aa/
+  277  ls -l
+  278  ls -l  Camera/
+  279  ls -l
+  280  mkdir sound
+  281  mv *ogg sound
+  282  ls -l
+  283  mv *mp3 sound
+  284  ls up*
+  285  du -B1 .
+  286  ls -l sound/
+  287  pwd
+  288  ls
+  289  ls -l
+  290  mkdir in
+  291  mv *jpg in
+  292  mv *png in
+  293  mv xa in/
+  294  mv 273305001 in
+  295  ll
+  296  ls -l
+  297  ls -l in
+  298  ls -l up46a2
+  299  mv up46a2/* in
+  300  rmdir up46a2
+  301  ls -l
+  302  ls -l Camera/|moew
+  303  ls -l Camera/|moew
+  304  ls -l Camera/|more
+  305  pwd
+  306  cd in
+  307  curl https://floatingboat2013.appspot.com/raw/246945002|python
+  308  cd ..
+  309  ls
+  310  cd Camera/
+  311  ll
+  312  ls -l
+  313  cd ..
+  314  ls
+  315  cd sound/
+  316  ls
+  317  cd ..
+  318  ls
+  319  ls up4694/
+  320  ls up4694/106APPLE/
+  321  ls up4694/107APPLE/
+  322  ls up46aa/100APPLE/IMG_0
+  323  ls up46aa/100APPLE/
+  324  ls
+  325  ls in
+  326  cd in
+  327  curl https://floatingboat2013.appspot.com/raw/246945002|python
+  328  cd ..
+  329  cd ..
+  330  ls
+  331  ls -l
+  332  cd easy
+  333  ls
+  334  ls -l
+  335  curl https://floatingboat2013.appspot.com/raw/246945002|python
+  336  curl https://floatingboat2013.appspot.com/raw/246945002
+  337  curl https://floatingboat2013.appspot.com/raw/246945002|python
+  338  curl https://floatingboat2013.appspot.com/raw/246945002 > p
+  339  vi p
+  340  cat p|python
+  341  ls git
+  342  ls .git
+  343  cat p
+  344  vi p
+  345  cat p|python
+  346  vi p
+  347  cat p|python
+  348  vi p
+  349  cat p|python
+  350  vi p
+  351  cat p|python
+  352  vi p
+  353  cat p|python
+  354  vi p
+  355  cat p|python
+  356  vi p
+  357  cat p|python
+  358  vi p
+  359  cat p|python
+  360  vi p
+  361  cat p|python
+  362  vi p
+  363  cat p|python
+  364  vi p
+  365  cat p|python
+  366  vi p
+  367  cat p|python
+  368  vi p
+  369  cat p|python
+  370  vi p
+  371  cat p|python
+  372  cat p
+  373  curl https://floatingboat2013.appspot.com/raw/255725002|py
+  374  curl https://floatingboat2013.appspot.com/raw/255725002|python
+  375  ls
+  376  ll
+  377  ls -l
+  378  sha256sum p
+  379  rm p
+  380  ls
+  381  git status
+  382  git add at*
+  383  git commit -am"git add at*"
+  384  git status
+  385  git push
+  386  ls -l
+  387  git status
+  388  cd ..
+  389  ls
+  390  ls -l
+  391  ls html
+  392  ls -l html
+  393  cd html/Camera/
+  394  ls
+  395  history 
+  396  curl https://floatingboat2013.appspot.com/rawHead/HalPy|python
+  397  curl https://floatingboat2013.appspot.com/rawHead/HalPy|python > ../Cam.hasi
+  398  more ../Cam.hasi
+  399  more ../Cam.hasi
+  400  ll
+  401  ls -l
+  402  cd ..
+  403  ls -l
+  404  ll in
+  405  ls -l in
+  406  mv Cam.hasi in
+  407  ls -l
+  408  ls -l sound
+  409  ls -l
+  410  ls -l Camera/|more
+  411  df
+  412  cd ..
+  413  history|grep du
+  414  du -B1 .
+  415  cd html/
+  416  du -B1 .
+  417  #ok: ToDo is limited to folder html
+  418  #at608a7bc.58x87249.51a5f4a8
+  419  history|grep pyt
+  420  cd sound/
+  421  curl https://floatingboat2013.appspot.com/rawHead/HalPy|python #664
+  422  ls -Sl|more
+  423  ls
+  424  cd ..
+  425  ll
+  426  ls -l
+  427  cd Camera
+  428  ls -l
+  429  cd ..
+  430  ls -l
+  431  ls in
+  432  ls up*
+  433  ls in
+  434  history
+  435  curl -L http://pieschenbank.de/rawHead/HalPy
+  436  #curl -L ht/rawHead/HalPy
+  437  #curl -L https://sl4.eu/rawHead/HalPy
+  438  curl -L https://sl4.eu/rawHead/HalPy
+  439  curl -L http://sl4.eu/rawHead/HalPy
+  440  #curl -L http
+  441  #curl -L http://sl4.eu/1
+  442  #curl -L http://sl4.eu/1
+  443  curl -L http://sl4.eu/1
+  444  pwd
+  445  ls
+  446  cd html/
+  447  curl -L http://sl4.eu/rawHead/HalPy|python
+  448  curl -L http://sl4.eu/rawHead/HalPy
+  449  ls
+  450  cd Camera/
+  451  curl -L http://sl4.eu/rawHead/HalPy|python
+  452  curl -L http://sl4.eu/rawHead/HalPy|python > ../Camera.hasi
+  453  cd ..
+  454  ls
+  455  cd in
+  456  ls
+  457  curl -L http://sl4.eu/rawHead/HalPy|python > ../in.hasi
+  458  cd ..
+  459  ls
+  460  ls sound/
+  461  cd sound/
+  462  curl -L http://sl4.eu/rawHead/HalPy|python > ../sound.hasi
+  463  cd ..
+  464  ls
+  465  ls up4694/
+  466  cd up4694/
+  467  cd 106APPLE/
+  468  curl -L http://sl4.eu/rawHead/HalPy|python > ../../106APPLE.hasi
+  469  cd ..
+  470  cd 107APPLE/
+  471  curl -L http://sl4.eu/rawHead/HalPy|python > ../../107APPLE.hasi
+  472  cd ..
+  473  ls
+  474  cd ..
+  475  ls
+  476  cd up46aa/
+  477  ls
+  478  cd 100APPLE/
+  479  curl -L http://sl4.eu/rawHead/HalPy|python > ../../100APPLE.hasi
+  480  cd ..
+  481  cd ..
+  482  ls
+  483  wc *i
+  484  sha256sum *i
+  485  cd ..
+  486  ls -l
+  487  ls rq
+  488  ls easy
+  489  #at60e07c9.2ax87477.bfe1befe
+  490  history |grep His
+  491  cd easy/
+  492  git pull
+  493  git status
+  494  ls
+  495  cd ..
+  496  cd html/
+  497  ls
+  498  sort *i|more
+  499  sort *i>EasyHasi.hasi
+  500  history |grep
+  501  #at6122eab.21x87639.345d67b6
+  502  cd htmllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+  503  cd html
+  504  ll
+  505  ls
+  506  ls in
+  507  ls Camera
+  508  ls -lS Camera
+  509  history |grep his
+  510  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/easy/$a.EasyHist.txt
